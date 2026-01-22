@@ -8,3 +8,13 @@
     background: transparent;
     border: none;
 }
+
+/* remove bottom margin of home-info */
+/* .home-info {
+    margin-bottom: 0;
+} */
+
+/* reduce height of home-info */
+.first-entry {
+    min-height: 160px;
+}
