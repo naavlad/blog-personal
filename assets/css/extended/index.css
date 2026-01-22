@@ -1,0 +1,10 @@
+/* remove background from post entry cards to match theme background */
+.post-entry {
+    background: transparent;
+}
+
+/* remove background from post entry cards to match theme background */
+.post-entry {
+    background: transparent;
+    border: none;
+}
