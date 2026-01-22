@@ -1,5 +1,5 @@
 baseURL: https://blog.naavlad.ru
-title: naavlad`s blog # site title
+title: weblog # site title
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -17,8 +17,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Personal blog on technology and AI
-  description: Personal blog about AI, tools, and practical insights
+  title: Personal weblog on technology
+  description: Заметки о технологиях, которые работают, и тех, что не работают
   keywords: [blog, AI, technology, tools, practical insights]
   author: admin
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: naavlad`s blog
+    text: "weblog.stdout"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -73,8 +73,10 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: Never too late
-    Content: Блог о современных технологиях, искусственном интеллекте и инструментах для решения практических задач.
+    Title: thinking | writing | shipping
+    Content: |
+      Заметки о технологиях, которые работают, и тех, что не работают  
+      📖 Потому что README редко рассказывает всю правду
 
   # socialIcons:
   #   - name: x
