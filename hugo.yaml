@@ -86,7 +86,7 @@ params:
 
   cover:
     hidden: false # показывать везде
-    hiddenInList: true # показывать в списках (превью)
+    hiddenInList: false # показывать в списках (превью)
     hiddenInSingle: true # НЕ показывать в отдельных постах
     responsiveImages: true
     linkFullImages: false
