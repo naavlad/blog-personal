@@ -51,11 +51,10 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "/favicon/favicon.ico"
+    favicon16x16: "/favicon/favicon-16x16.png"
+    favicon32x32: "/favicon/favicon-32x32.png"
+    apple_touch_icon: "/favicon/apple-touch-icon.png"
 
   label:
     text: "weblog•stdout"
@@ -96,32 +95,6 @@ params:
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
 
-menu:
-  main:
-    - identifier: news
-      name: новости
-      url: /news/
-      title: новости
-      weight: 10
-
-    - identifier: categories
-      name: категории
-      url: /categories/
-      title: категории
-      weight: 20
-
-    - identifier: tags
-      name: "#"
-      url: /tags/
-      title: теги
-      weight: 30
-
-    - identifier: search
-      name: 🔍
-      url: /search/
-      title: поиск
-      weight: 40
-
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 markup:
   highlight:
@@ -131,3 +104,35 @@ markup:
     guessSyntax: true # автоматически определяет язык, если не указан
     lineNos: true # включает номера строк
     # style: monokai
+
+menu:
+  main:
+    - identifier: news
+      name: новости
+      url: /news/
+      title: новости
+      weight: 10
+
+    - identifier: projects
+      name: проекты
+      url: /projects/
+      title: проекты
+      weight: 15
+
+    - identifier: categories
+      name: 📁
+      url: /categories/
+      title: категории
+      weight: 20
+
+    - identifier: tags
+      name: 📃
+      url: /tags/
+      title: теги
+      weight: 30
+
+    - identifier: search
+      name: 🔍
+      url: /search/
+      title: поиск
+      weight: 40
