@@ -1,6 +1,12 @@
-baseURL: https://blog.naavlad.ru
-title: weblog # site title
+baseURL: https://weblog-stdout.ru
+title: weblog•stdout # site title
 theme: PaperMod
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -52,24 +58,9 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "weblog.stdout"
+    text: "weblog•stdout"
     icon: /apple-touch-icon.png
     iconHeight: 35
-
-  # profile-mode
-  profileMode:
-    enabled: false # needs to be explicitly set
-    title: Never too late
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
 
   # home-info mode
   homeInfoParams:
@@ -93,11 +84,6 @@ params:
     responsiveImages: true
     linkFullImages: false
 
-  # editPost:
-  #   URL: "https://github.com/<path_to_repo>/content"
-  #   Text: "Suggest Changes" # edit text
-  #   appendFilePath: true # to append file path to Edit link
-
   # for search
   # https://fusejs.io/api/options.html
   fuseOpts:
@@ -113,32 +99,35 @@ params:
 menu:
   main:
     - identifier: news
-      name: news
+      name: новости
       url: /news/
+      title: новости
       weight: 10
 
     - identifier: categories
-      name: categories
+      name: категории
       url: /categories/
+      title: категории
       weight: 20
 
     - identifier: tags
-      name: tags
+      name: "#"
       url: /tags/
+      title: теги
       weight: 30
 
-    # - identifier: platform
-    #   name: СИИБ платформа
-    #   url: https://platform.baigem.ru
-    # weight: 40
+    - identifier: search
+      name: 🔍
+      url: /search/
+      title: поиск
+      weight: 40
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
+    # anchorLineNos: true # включает ссылки на номера строк
+    codeFences: true # включает подсветку для блоков кода с тройными обратными кавычками ```
+    guessSyntax: true # автоматически определяет язык, если не указан
+    lineNos: true # включает номера строк
     # style: monokai

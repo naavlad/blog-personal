@@ -4,7 +4,7 @@ title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 canonicalURL: ""
 ShowCanonicalLink: true
 CanonicalLinkText: "Оригинальная статья"
-# draft: true
+draft: false
 ---
 
 ![](/images/)
