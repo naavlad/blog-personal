@@ -13,8 +13,8 @@ personal blog hosted by GitHub pages
 ### create post
 
 ```bash
-# creates a draft post from the template in archetypes/post.md
-hugo new --kind post <folder>/$(date +%Y%m%d-%H%M%S).md
+# creates a draft post from the template in archetypes/news.md
+hugo new --kind news <folder>/$(date +%Y%m%d-%H%M%S).md
 ```
 
 ### embedded web server
