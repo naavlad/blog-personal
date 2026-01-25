@@ -2,25 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/news/20260124-094637/</loc>
-    <lastmod>2026-01-24T09:46:37+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/news/</loc>
-    <lastmod>2026-01-24T09:46:37+03:00</lastmod>
+    <lastmod>2026-01-25T09:25:48+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/20260125-092548/</loc>
+    <lastmod>2026-01-25T09:25:48+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-24T09:46:37+03:00</lastmod>
+    <lastmod>2026-01-25T09:25:48+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-01-24T09:46:37+03:00</lastmod>
+    <lastmod>2026-01-25T09:25:48+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/</loc>
-    <lastmod>2026-01-24T09:46:37+03:00</lastmod>
+    <lastmod>2026-01-25T09:25:48+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</loc>
-    <lastmod>2026-01-24T09:46:37+03:00</lastmod>
+    <lastmod>2026-01-25T09:25:48+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-25T09:25:48+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/20260124-094637/</loc>
     <lastmod>2026-01-24T09:46:37+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/20260123-094449/</loc>
