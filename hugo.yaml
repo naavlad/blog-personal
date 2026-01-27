@@ -71,12 +71,6 @@ languages:
           title: news
           weight: 10
 
-        - identifier: projects
-          name: projects
-          url: /en/projects/
-          title: projects
-          weight: 15
-
         - identifier: categories
           name: 📁
           url: /en/categories/
