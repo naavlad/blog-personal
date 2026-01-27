@@ -1,0 +1,35 @@
+- id: prev_page
+  translation: "← Prev"
+
+- id: next_page
+  translation: "Next →"
+
+- id: read_time
+  translation: "min read"
+
+- id: words
+  translation: "words"
+
+- id: toc
+  translation: "Table of Contents"
+
+- id: translations
+  translation: "Translations"
+
+- id: home
+  translation: "Home"
+
+- id: edit_post
+  translation: "Edit"
+
+- id: code
+  translation: "Code"
+
+- id: share_on
+  translation: "Share on"
+
+- id: search_placeholder
+  translation: "Search..."
+
+- id: search_title
+  translation: "Search"

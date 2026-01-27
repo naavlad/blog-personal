@@ -7,7 +7,7 @@ tags: ["news"]
 
 canonicalURL: ""
 ShowCanonicalLink: true
-CanonicalLinkText: "Оригинальная статья"
+CanonicalLinkText: "source"
 
 draft: false
 ---

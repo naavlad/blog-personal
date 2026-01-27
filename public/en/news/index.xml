@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>News on weblog•stdout</title>
+    <link>http://localhost:1313/en/news/</link>
+    <description>Recent content in News on weblog•stdout</description>
+    <image>
+      <title>weblog•stdout</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Jan 2026 10:08:05 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenEvidence, the ChatGPT for doctors, doubles valuation to $12 billion</title>
+      <link>http://localhost:1313/en/news/20260127-100805/</link>
+      <pubDate>Tue, 27 Jan 2026 10:08:05 +0300</pubDate>
+      <guid>http://localhost:1313/en/news/20260127-100805/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/20260127-100805.png&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OpenEvidence startup raised $250 million in new funding&lt;/li&gt;
+&lt;li&gt;New funding provided by Thrive Capital and DST&lt;/li&gt;
+&lt;li&gt;Over the past year, OpenEvidence raised $750 million in investments&lt;/li&gt;
+&lt;li&gt;Among its investors: Google, Nvidia, Kleiner Perkins and others&lt;/li&gt;
+&lt;li&gt;The startup helps doctors make important clinical decisions&lt;/li&gt;
+&lt;li&gt;OpenEvidence is the most popular AI platform for doctors&lt;/li&gt;
+&lt;li&gt;More than 40% of doctors in the US market use the platform&lt;/li&gt;
+&lt;li&gt;Healthcare accounts for nearly 20% of total US GDP&lt;/li&gt;
+&lt;li&gt;Healthcare spending reaches $5 trillion&lt;/li&gt;
+&lt;li&gt;OpenEvidence has collected hundreds of millions of real doctor consultations&lt;/li&gt;
+&lt;li&gt;Last year, the startup&amp;rsquo;s ARR exceeded $100 million&lt;/li&gt;
+&lt;li&gt;95% of new users learn about the product from other doctors&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Coinbase to Acquire Prediction Markets Startup The Clearing Company</title>
+      <link>http://localhost:1313/en/news/20260124-094637/</link>
+      <pubDate>Sat, 24 Jan 2026 09:46:37 +0300</pubDate>
+      <guid>http://localhost:1313/en/news/20260124-094637/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/20260124-094637.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;– The Clearing Company startup recently raised $15 million
+– Coinbase Ventures was already one of the investors
+– Coinbase previously launched predictions market direction
+– The startup team will become part of Coinbase crypto exchange
+– Predictions are available for sports, politics, and more
+– The startup was founded by former Polymarket and Kalshi executive
+– The deal will help Coinbase scale its new business
+– The startup had about 10 employees in total
+– Coinbase did not disclose the amount, calling it &amp;ldquo;immaterial&amp;rdquo;
+– The acquisition became the tenth for the crypto exchange since early 2025
+– Coinbase previously acquired Roam, Spindl, Iron Fish, Echo, and others&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

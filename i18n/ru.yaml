@@ -1,0 +1,35 @@
+- id: prev_page
+  translation: "← Назад"
+
+- id: next_page
+  translation: "Вперёд →"
+
+- id: read_time
+  translation: "мин. чтения"
+
+- id: words
+  translation: "слов"
+
+- id: toc
+  translation: "Содержание"
+
+- id: translations
+  translation: "Переводы"
+
+- id: home
+  translation: "Главная"
+
+- id: edit_post
+  translation: "Редактировать"
+
+- id: code
+  translation: "Код"
+
+- id: share_on
+  translation: "Поделиться"
+
+- id: search_placeholder
+  translation: "Поиск..."
+
+- id: search_title
+  translation: "Поиск"

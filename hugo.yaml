@@ -1,6 +1,99 @@
 baseURL: https://blog.weblog-stdout.ru
 title: weblog•stdout # site title
 theme: PaperMod
+defaultContentLanguage: ru
+defaultContentLanguageInSubdir: false
+
+languages:
+  ru:
+    languageName: "Русский"
+    weight: 1
+    contentDir: content/ru
+    params:
+      description: Заметки о технологиях, которые работают, и тех, что не работают
+      homeInfoParams:
+        Title: thinking | writing | shipping
+        Content: |
+          Заметки о технологиях, которые работают, и тех, что не работают  
+          📖 Потому что README иногда не рассказывает всю правду
+
+          ---
+    menu:
+      main:
+        - identifier: news
+          name: новости
+          url: /news/
+          title: новости
+          weight: 10
+
+        - identifier: projects
+          name: проекты
+          url: /projects/
+          title: проекты
+          weight: 15
+
+        - identifier: categories
+          name: 📁
+          url: /categories/
+          title: категории
+          weight: 20
+
+        - identifier: tags
+          name: 📄
+          url: /tags/
+          title: теги
+          weight: 30
+
+        - identifier: search
+          name: 🔍
+          url: /search/
+          title: поиск
+          weight: 40
+
+  en:
+    languageName: "English"
+    weight: 2
+    contentDir: content/en
+    params:
+      description: Notes on technologies that work, and those that don't
+      homeInfoParams:
+        Title: thinking | writing | shipping
+        Content: |
+          Notes on technologies that work, and those that don't  
+          📖 Because README doesn't always tell the whole truth
+
+          ---
+    menu:
+      main:
+        - identifier: news
+          name: news
+          url: /en/news/
+          title: news
+          weight: 10
+
+        - identifier: projects
+          name: projects
+          url: /en/projects/
+          title: projects
+          weight: 15
+
+        - identifier: categories
+          name: 📁
+          url: /en/categories/
+          title: categories
+          weight: 20
+
+        - identifier: tags
+          name: 📄
+          url: /en/tags/
+          title: tags
+          weight: 30
+
+        - identifier: search
+          name: 🔍
+          url: /en/search/
+          title: search
+          weight: 40
 
 outputs:
   home:
@@ -106,35 +199,3 @@ markup:
     guessSyntax: true # автоматически определяет язык, если не указан
     lineNos: true # включает номера строк
     # style: monokai
-
-menu:
-  main:
-    - identifier: news
-      name: новости
-      url: /news/
-      title: новости
-      weight: 10
-
-    - identifier: projects
-      name: проекты
-      url: /projects/
-      title: проекты
-      weight: 15
-
-    - identifier: categories
-      name: 📁
-      url: /categories/
-      title: категории
-      weight: 20
-
-    - identifier: tags
-      name: 📄
-      url: /tags/
-      title: теги
-      weight: 30
-
-    - identifier: search
-      name: 🔍
-      url: /search/
-      title: поиск
-      weight: 40
