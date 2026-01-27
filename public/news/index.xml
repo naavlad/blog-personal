@@ -11,8 +11,29 @@
     </image>
     <generator>Hugo -- 0.154.5</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Jan 2026 10:04:35 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 10:08:05 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenEvidence, создающий «ChatGPT для врачей», удвоил свою стоимость до $12 млрд</title>
+      <link>http://localhost:1313/news/20260127-100805/</link>
+      <pubDate>Tue, 27 Jan 2026 10:08:05 +0300</pubDate>
+      <guid>http://localhost:1313/news/20260127-100805/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/20260127-100805.png&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Стартап OpenEvidence получил $250 млн новых инвестиций&lt;/li&gt;
+&lt;li&gt;Новое финансирование предоставили Thrive Capital и DST&lt;/li&gt;
+&lt;li&gt;За последний год OpenEvidence получил $750 млн инвестиций&lt;/li&gt;
+&lt;li&gt;Среди его инвесторов: Google, Nvidia, Kleiner Perkins и др.&lt;/li&gt;
+&lt;li&gt;Стартап помогает врачам принимать важные клинич. решения&lt;/li&gt;
+&lt;li&gt;OpenEvidence – самая популярная ИИ-платформа для врачей&lt;/li&gt;
+&lt;li&gt;На рынке США платформу используют более 40% медиков&lt;/li&gt;
+&lt;li&gt;На здравоохранение приходится почти 20% всего ВВП США&lt;/li&gt;
+&lt;li&gt;Расходы на сферу здравоохранения достигают $5 трлн&lt;/li&gt;
+&lt;li&gt;OpenEvidence собрал сотни млн реальных консультаций врачей&lt;/li&gt;
+&lt;li&gt;В прошлом году ARR стартапа превысил отметку $100 млн&lt;/li&gt;
+&lt;li&gt;95% новых пользователей узнают о продукте от других врачей&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Глава DeepMind заявил, что китайские ИИ-компании отстают от западных на 6 мес.</title>
       <link>http://localhost:1313/news/20260126-100434/</link>
