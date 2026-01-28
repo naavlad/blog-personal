@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.154.5</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Jan 2026 10:08:05 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 09:59:08 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20260128 095907</title>
+      <link>http://localhost:1313/news/20260128-095907/</link>
+      <pubDate>Wed, 28 Jan 2026 09:59:08 +0300</pubDate>
+      <guid>http://localhost:1313/news/20260128-095907/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenEvidence, создающий «ChatGPT для врачей», удвоил свою стоимость до $12 млрд</title>
       <link>http://localhost:1313/news/20260127-100805/</link>
